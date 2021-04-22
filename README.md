@@ -1,6 +1,5 @@
-|| Hello i pozdrav ||
-.
+||  Hello i pozdrav  ||
+<br>
 On the way to better myself.
-.
-I WANT TO now so I don't HAVE TO later.
-.
+<br>
+
