@@ -1,8 +1,2 @@
-||  Hello || 
-<br>
-|| Pozdrav  ||
-<br>
-<br>
-On the way to better myself.
-<br>
 
+"If you want to improve, be content to be thought foolish and stupid." - <i>Epictetus</i> 
