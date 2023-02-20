@@ -4,7 +4,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Filip
 =============================================================================================================================
 
-Software Engineer? Developer? A person?
+Web&Frontend Developer. I try to be a human too. 
 -----------------
 
 I build stuff mostly with JavaScript. Started automating and hacking stuff because who wants to do boring and repetitive tasks? So I am constantly thinking of solutions that could help others be better at what they do.
