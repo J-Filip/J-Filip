@@ -13,8 +13,8 @@ I build stuff mostly with JavaScript. Started automating and hacking stuff becau
 * 🖥️  See my portfolio at [https://filip-jugkala.com](http://filip-jugkala.com)
 * ✉️  You can contact me at [filip.jugkala@yahoo.com](mailto:filip.jugkala@yahoo.com)
 * 🚀  I'm currently working on [e-Class Register for schools at CARNET](http://carnet.hr/en/usluga/e-class-register-for-schools/)
-* 🧠  Currently learning Vue and React.
-* ⚡  Likes: football, running, hiking, cycling, lake Jarun, Balašević.
+* 🧠  Currently working with React and TypeScript
+* ⚡  Likes: football, running, hiking, cycling, lake Jarun, Balašević
 
 ### Skills
 
