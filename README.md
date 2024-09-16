@@ -4,16 +4,13 @@
 Hi! My name is Filip.
 =============================================================================================================================
 
-Frontend Developer. I try to be a human too. 
------------------
-
 I build stuff to do stuff I don't want to.
 
 * 🌍  I'm based in Zagreb, Croatia.
 * 🖥️  See my portfolio at [https://filip-jugkala.com](http://filip-jugkala.com)
 * ✉️  You can contact me at [filip.jugkala@yahoo.com](mailto:filip.jugkala@yahoo.com)
 * 🧠  Currently working with React and TypeScript
-* ⚡  Likes: football, running, hiking, cycling, lake Jarun, Balašević
+* ⚡  Likes: football, cycling, fixing bicycles
 
 ### Skills
 
@@ -22,10 +19,11 @@ I build stuff to do stuff I don't want to.
 <a  rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
 
+  <a rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="24" height="24" alt="Webpack" /></a>
   <a  rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="24" height="24" alt="Vue" /></a>
     <a  rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="24" height="24" alt="Svelte" /></a>
+    
   
 </p>
 
